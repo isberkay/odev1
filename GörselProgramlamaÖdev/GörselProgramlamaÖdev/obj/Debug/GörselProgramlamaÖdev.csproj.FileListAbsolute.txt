@@ -1,0 +1,15 @@
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\bin\Debug\GörselProgramlamaÖdev.exe.config
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\bin\Debug\GörselProgramlamaÖdev.exe
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\bin\Debug\GörselProgramlamaÖdev.pdb
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.csproj.AssemblyReference.cache
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.AnaEkran.resources
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.KitapEklemeEkranı.resources
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.Properties.Resources.resources
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.csproj.GenerateResource.cache
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.exe
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.pdb
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.YazarEklemeEkranı.resources
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.ÜyeEklemeEkranı.resources
+C:\Users\BERKAY\Desktop\CSharp\GörselProgramlamaÖdev\GörselProgramlamaÖdev\obj\Debug\GörselProgramlamaÖdev.DüzenlemeEkranı.resources
